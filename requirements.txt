@@ -1,0 +1,14 @@
+langchain>=0.2.7,<0.3
+langchain-community>=0.2.6,<0.3
+langchain-openai>=0.1.20,<0.2
+langchain-huggingface>=0.0.3,<0.1
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.2
+openai>=1.37.0
+pandas>=2.2.2
+numpy>=1.26.4
+requests>=2.32.3
+tqdm>=4.66.5
+python-dotenv>=1.0.1
+pydantic>=2.7.3
+langchain-text-splitters>=0.2.2,<0.3
